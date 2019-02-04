@@ -28,3 +28,6 @@ In order to run the client, open the `Client` folder, open the `config.txt` file
 
 # License 
 This is a completely free software for any Steinsvik personel.
+
+# Contact
+vu09@gw.uni-passau.de

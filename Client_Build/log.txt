@@ -1,0 +1,3 @@
+[04/02/2019 16:40:05]	Connection to server is established
+[04/02/2019 16:40:24]	Connection to server is lost
+[04/02/2019 16:40:24]	Unknown error

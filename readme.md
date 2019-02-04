@@ -20,14 +20,16 @@ In order to run the server, you must have Node.js installed on your machine, wit
 Bot and Client are written and built on Qt, using MinGW compiler, but you can use MSVC as well.
 
 # Run
-To run the server, open the Command Prompt, navigate to the `Server` folder, then type `node app.js` to run the server. Remember the IP address and the port of the machine running the server.
+This repository contains sample builds for both the client and the Bot. They are located inside `Client_Build` and `SnakeBot_Build` folder.
 
-In order to add a bot, you can simply run the `SnakeBot.exe` under the `SnakeBot` folder, bot app must be run on the same machine of the server.
+To run the server, open the Command Prompt, navigate to the `Server` folder, then type `node app.js` to run the server. Remember the IP address of the machine running the server.
 
-In order to run the client, open the `Client` folder, open the `config.txt` file, change `CONFIG_SERVER_IP` and `CONFIG_SERVER_PORT` to the IP and port of the server, then simply run the `game.exe` under the `Client` folder.
+In order to add a bot, you can simply run the `SnakeBot.exe` under the `SnakeBot_Build` folder, bot app must be run on the same machine of the server.
+
+In order to run the client, open the `Client_Build` folder, open the `config.txt` file, change `CONFIG_SERVER_IP` to the IP of the server, the `CONFIG_SERVER_PORT` can remain the same as `3000`, then simply run the `game.exe` executable file.
 
 # License 
-This is a completely free software for any Steinsvik personel.
+This is a completely free software.
 
 # Contact
 vu09@gw.uni-passau.de

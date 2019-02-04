@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>game_screen.qml</file>
+        <file>menu_screen.qml</file>
+        <file>game_over_screen.qml</file>
+    </qresource>
+</RCC>

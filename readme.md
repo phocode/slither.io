@@ -32,4 +32,4 @@ In order to run the client, open the `Client_Build` folder, open the `config.txt
 This is a completely free software.
 
 # Contact
-vu09@gw.uni-passau.de
+vu09@ads.uni-passau.de
